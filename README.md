@@ -1,5 +1,5 @@
 # Educode Table B
-Chart of Standard Forms of Less-Than-Common National Characters 教育部次常用字表 (乙表)
+Chart of Standard Forms of Less-Than-Common National Characters 教育部次常用正字表 (乙表)
 
 Original article in my Bahamut blog (中文):
 https://home.gamer.com.tw/creationDetail.php?sn=4907610
